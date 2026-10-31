@@ -1,0 +1,24 @@
+{
+  "selected": {
+    "config": "lr1e-04_h256",
+    "lr": 0.0001,
+    "hidden": 256,
+    "epochs": 60,
+    "cv_acc_mean": 97.7,
+    "cv_acc_sd": 1.52,
+    "cv_f1_mean": 97.69,
+    "cv_loss_mean": 0.1182,
+    "fold_accs": "99.24 / 96.21 / 97.66"
+  },
+  "original_config": {
+    "config": "lr1e-04_h256",
+    "lr": 0.0001,
+    "hidden": 256,
+    "epochs": 60,
+    "cv_acc_mean": 97.7,
+    "cv_acc_sd": 1.52,
+    "cv_f1_mean": 97.69,
+    "cv_loss_mean": 0.1182,
+    "fold_accs": "99.24 / 96.21 / 97.66"
+  }
+}

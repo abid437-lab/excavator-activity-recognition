@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Large files kept out of the repo (upload as GitHub Release files)
+_release_assets/
+
+# Helper script used to build this folder
+make_repo.py
+upload_to_github.py
+upload_to_github.bat
+
+# Smoke-test outputs
+retrain_results_TEST/
+cv_results_TEST/

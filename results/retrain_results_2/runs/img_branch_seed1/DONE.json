@@ -1,0 +1,16 @@
+{
+  "model": "img_branch",
+  "seed": 1,
+  "params": 11966020,
+  "minutes": 62.3,
+  "normal_loss": 0.11263662059181592,
+  "normal_acc": 0.9821428571428571,
+  "normal_precision": 0.9821361045836372,
+  "normal_recall": 0.9821428571428571,
+  "normal_f1": 0.9820702979987176,
+  "occluded_loss": 0.734121908532134,
+  "occluded_acc": 0.8988095238095238,
+  "occluded_precision": 0.9197542283298097,
+  "occluded_recall": 0.8988095238095237,
+  "occluded_f1": 0.8993826019218348
+}

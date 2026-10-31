@@ -1,0 +1,16 @@
+{
+  "epochs": 30,
+  "batch": 8,
+  "lr": 0.0001,
+  "wd": 0.0,
+  "hidden": 256,
+  "kind": "small",
+  "stream": "GAF",
+  "size": 256,
+  "dropout": false,
+  "noise": 0.0,
+  "model": "gaf_small",
+  "seed": 3,
+  "params": 268720068,
+  "device": "cuda"
+}

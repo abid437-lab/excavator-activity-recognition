@@ -1,0 +1,16 @@
+{
+  "model": "img_small",
+  "seed": 0,
+  "params": 268720068,
+  "minutes": 10.7,
+  "normal_loss": 0.11044474238795894,
+  "normal_acc": 0.9761904761904762,
+  "normal_precision": 0.9761697120708749,
+  "normal_recall": 0.9761904761904762,
+  "normal_f1": 0.9759701441552231,
+  "occluded_loss": 0.32775306417828515,
+  "occluded_acc": 0.8809523809523809,
+  "occluded_precision": 0.8787456445993032,
+  "occluded_recall": 0.8809523809523809,
+  "occluded_f1": 0.8794157767680116
+}

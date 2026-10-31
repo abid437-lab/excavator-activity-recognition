@@ -1,0 +1,16 @@
+{
+  "model": "gaf_branch",
+  "seed": 4,
+  "params": 546884,
+  "minutes": 12.3,
+  "normal_loss": 0.482357096450869,
+  "normal_acc": 0.8273809523809523,
+  "normal_precision": 0.8276779115193749,
+  "normal_recall": 0.8273809523809523,
+  "normal_f1": 0.827350931967071,
+  "occluded_loss": 0.7158682626516869,
+  "occluded_acc": 0.7857142857142857,
+  "occluded_precision": 0.7883755975551348,
+  "occluded_recall": 0.7857142857142858,
+  "occluded_f1": 0.7861614908833193
+}

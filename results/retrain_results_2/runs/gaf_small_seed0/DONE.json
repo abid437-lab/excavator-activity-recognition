@@ -1,0 +1,16 @@
+{
+  "model": "gaf_small",
+  "seed": 0,
+  "params": 268720068,
+  "minutes": 11.3,
+  "normal_loss": 0.35553986933969317,
+  "normal_acc": 0.875,
+  "normal_precision": 0.8797430830039527,
+  "normal_recall": 0.875,
+  "normal_f1": 0.8761067137626979,
+  "occluded_loss": 0.5844025767984844,
+  "occluded_acc": 0.8095238095238095,
+  "occluded_precision": 0.8129166666666666,
+  "occluded_recall": 0.8095238095238094,
+  "occluded_f1": 0.8089758192267913
+}

@@ -1,0 +1,16 @@
+{
+  "model": "multimodal",
+  "seed": 2,
+  "params": 12247684,
+  "minutes": 69.4,
+  "normal_loss": 0.10055575846317447,
+  "normal_acc": 0.9761904761904762,
+  "normal_precision": 0.9771405919661733,
+  "normal_recall": 0.9761904761904762,
+  "normal_f1": 0.9763213073842867,
+  "occluded_loss": 0.3496607162468579,
+  "occluded_acc": 0.9107142857142857,
+  "occluded_precision": 0.9208776595744681,
+  "occluded_recall": 0.9107142857142857,
+  "occluded_f1": 0.9115892066734763
+}

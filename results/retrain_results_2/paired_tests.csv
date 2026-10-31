@@ -1,0 +1,69 @@
+reference,model,split,subset,seed,n,ref_acc,model_acc,ref_right_model_wrong,ref_wrong_model_right,mcnemar_p
+multimodal,gaf_branch,normal,all,0,168,98.81,86.9,22,2,4e-05
+multimodal,gaf_branch,normal,all,1,168,98.21,81.55,30,2,0.0
+multimodal,gaf_branch,normal,all,2,168,97.62,88.69,18,3,0.00149
+multimodal,gaf_branch,normal,all,3,168,98.81,84.52,26,2,0.0
+multimodal,gaf_branch,normal,all,4,168,98.21,82.74,29,3,0.0
+multimodal,gaf_branch,normal,all,paired_t,5,,"diff 13.45 [9.63,17.28]",,,0.00062
+multimodal,gaf_branch,occluded,all,0,168,92.86,82.74,28,11,0.00948
+multimodal,gaf_branch,occluded,degraded,0,70,85.71,74.29,17,9,0.16864
+multimodal,gaf_branch,occluded,all,1,168,94.64,77.98,36,8,3e-05
+multimodal,gaf_branch,occluded,degraded,1,70,92.86,70.0,21,5,0.00249
+multimodal,gaf_branch,occluded,all,2,168,91.07,85.12,21,11,0.11018
+multimodal,gaf_branch,occluded,degraded,2,70,82.86,74.29,15,9,0.30746
+multimodal,gaf_branch,occluded,all,3,168,94.64,79.17,35,9,0.00011
+multimodal,gaf_branch,occluded,degraded,3,70,91.43,72.86,19,6,0.01463
+multimodal,gaf_branch,occluded,all,4,168,92.26,78.57,34,11,0.00082
+multimodal,gaf_branch,occluded,degraded,4,70,84.29,71.43,18,9,0.12208
+multimodal,gaf_branch,occluded,all,paired_t,5,,"diff 12.38 [6.96,17.80]",,,0.00316
+multimodal,img_branch,normal,all,0,168,98.81,98.21,1,0,1.0
+multimodal,img_branch,normal,all,1,168,98.21,98.21,0,0,1.0
+multimodal,img_branch,normal,all,2,168,97.62,98.21,1,2,1.0
+multimodal,img_branch,normal,all,3,168,98.81,98.21,1,0,1.0
+multimodal,img_branch,normal,all,4,168,98.21,93.45,9,1,0.02148
+multimodal,img_branch,normal,all,paired_t,5,,"diff 1.07 [-1.56,3.71]",,,0.32186
+multimodal,img_branch,occluded,all,0,168,92.86,89.88,7,2,0.17969
+multimodal,img_branch,occluded,degraded,0,70,85.71,81.43,5,2,0.45312
+multimodal,img_branch,occluded,all,1,168,94.64,89.88,8,0,0.00781
+multimodal,img_branch,occluded,degraded,1,70,92.86,81.43,8,0,0.00781
+multimodal,img_branch,occluded,all,2,168,91.07,89.88,8,6,0.79053
+multimodal,img_branch,occluded,degraded,2,70,82.86,81.43,6,5,1.0
+multimodal,img_branch,occluded,all,3,168,94.64,92.86,7,4,0.54883
+multimodal,img_branch,occluded,degraded,3,70,91.43,85.71,6,2,0.28906
+multimodal,img_branch,occluded,all,4,168,92.26,85.71,11,0,0.00098
+multimodal,img_branch,occluded,degraded,4,70,84.29,74.29,7,0,0.01562
+multimodal,img_branch,occluded,all,paired_t,5,,"diff 3.45 [0.72,6.19]",,,0.02481
+multimodal,gaf_small,normal,all,0,168,98.81,87.5,20,1,2e-05
+multimodal,gaf_small,normal,all,1,168,98.21,91.67,13,2,0.00739
+multimodal,gaf_small,normal,all,2,168,97.62,93.45,9,2,0.06543
+multimodal,gaf_small,normal,all,3,168,98.81,92.86,11,1,0.00635
+multimodal,gaf_small,normal,all,4,168,98.21,89.88,16,2,0.00131
+multimodal,gaf_small,normal,all,paired_t,5,,"diff 7.26 [3.90,10.62]",,,0.00389
+multimodal,gaf_small,occluded,all,0,168,92.86,80.95,29,9,0.00166
+multimodal,gaf_small,occluded,degraded,0,70,85.71,74.29,16,8,0.15159
+multimodal,gaf_small,occluded,all,1,168,94.64,84.52,25,8,0.00455
+multimodal,gaf_small,occluded,degraded,1,70,92.86,74.29,18,5,0.01062
+multimodal,gaf_small,occluded,all,2,168,91.07,86.9,18,11,0.26493
+multimodal,gaf_small,occluded,degraded,2,70,82.86,78.57,13,10,0.67764
+multimodal,gaf_small,occluded,all,3,168,94.64,86.9,21,8,0.02412
+multimodal,gaf_small,occluded,degraded,3,70,91.43,77.14,16,6,0.05248
+multimodal,gaf_small,occluded,all,4,168,92.26,82.74,28,12,0.01659
+multimodal,gaf_small,occluded,degraded,4,70,84.29,72.86,19,11,0.20049
+multimodal,gaf_small,occluded,all,paired_t,5,,"diff 8.69 [5.05,12.33]",,,0.0027
+multimodal,img_small,normal,all,0,168,98.81,97.62,2,0,0.5
+multimodal,img_small,normal,all,1,168,98.21,94.64,6,0,0.03125
+multimodal,img_small,normal,all,2,168,97.62,97.62,2,2,1.0
+multimodal,img_small,normal,all,3,168,98.81,97.62,2,0,0.5
+multimodal,img_small,normal,all,4,168,98.21,98.21,1,1,1.0
+multimodal,img_small,normal,all,paired_t,5,,"diff 1.19 [-0.62,3.00]",,,0.14193
+multimodal,img_small,occluded,all,0,168,92.86,88.1,10,2,0.03857
+multimodal,img_small,occluded,degraded,0,70,85.71,77.14,8,2,0.10938
+multimodal,img_small,occluded,all,1,168,94.64,86.9,14,1,0.00098
+multimodal,img_small,occluded,degraded,1,70,92.86,75.71,13,1,0.00183
+multimodal,img_small,occluded,all,2,168,91.07,89.88,8,6,0.79053
+multimodal,img_small,occluded,degraded,2,70,82.86,81.43,6,5,1.0
+multimodal,img_small,occluded,all,3,168,94.64,88.1,12,1,0.00342
+multimodal,img_small,occluded,degraded,3,70,91.43,77.14,11,1,0.00635
+multimodal,img_small,occluded,all,4,168,92.26,88.1,8,1,0.03906
+multimodal,img_small,occluded,degraded,4,70,84.29,77.14,5,0,0.0625
+multimodal,img_small,occluded,all,paired_t,5,,"diff 4.88 [1.77,7.99]",,,0.01208

@@ -1,0 +1,9 @@
+{
+  "lr": 0.0001,
+  "hidden": 256,
+  "fold": 0,
+  "epochs": 60,
+  "n_train": 260,
+  "n_val": 132,
+  "minutes": 54.4
+}
